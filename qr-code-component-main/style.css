@@ -1,0 +1,46 @@
+body{
+    /* width: 100vw; */
+    height:90vh;
+    background-color: blue;
+    display:grid;
+    justify-items: center;
+    align-items: center;
+    background-color: #d5e1ef;
+
+
+}
+.wraper {
+    width: 320px;
+    height: 499px;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.box1 {
+    height: 100%;
+
+    border-radius:15%;
+}
+.box2 {
+    height: 100%;
+    font-size:15px;
+    text-align: center;
+    font-family:Outfit;
+    
+    
+}
+.box1 img {
+    border-radius:10px;
+    width:100%;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
